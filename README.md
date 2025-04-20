@@ -19,7 +19,7 @@ This project started as a portfolio piece to demonstrate mobile development skil
 - HTTP package
 
 ## 📌 Note
-The backend is currently local (e.g., `192.168.x.x`). For production, it will be moved to a proper hosting or cloud environment.
+The backend is currently local (e.g., `*.*.x.x`). For production, it will be moved to a proper hosting or cloud environment.
 
 > ✅ **To be updated with more features and a main idea soon!**
 
